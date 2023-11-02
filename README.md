@@ -28,7 +28,7 @@
   </div>
   
   <div>
-    <h3> ⚙ Cowork tools </h3>
+    <h3> ⚙ Coworking tools </h3>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
