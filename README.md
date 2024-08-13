@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-FD2251?style=for-the-badge&logo=Recoil&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Zustand-5C2D0F?style=for-the-badge&logo=Zustand&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Zustand-5C2D0F?style=for-the-badge&logo=Zustand&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
